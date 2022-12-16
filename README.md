@@ -1,3 +1,3 @@
 # Compsci-455
 
-This is a repository for code projects made in Compsci 455 from UWW
+Project one was to take a encrypted file using a monoaphabetic cipher, use cryptoanalysis get a key and use a program to decrypt, coded in C++
